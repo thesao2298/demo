@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+.menu{
+	height: 120px;
+/*	background-color: aquamarine;*/
+}
+.menu1{
+	margin-top: 40px;
+}
+.menu1 ul li a {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #333;
+}
+.logo{
+	margin-top: 18px;
+}
+.menu2{
+	margin-top: 40px;
+}
+.menu2 ul li a {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #333;
+}
+.slider{
+	height: 633px;
+/*	background-color: aquamarine;*/
+}
+.slider img{
+	height: 633px;
+	width: 1533px;
+}
+.slider2{
+	height: 633px;
+/*	background-color: aquamarine;*/
+}
+.slider2 .text{
+	margin-top: 119px;
+}
+
+.anh{
+	margin-top: 119px;
+	
+}
+.nen2{
+	height: 652px;
+/*	background-color: bisque;*/
+}
+.text {
+	margin-top: 138px;
+}
+.nen2 .text{
+	margin-top: 114px;
+}
+.khungbanh{
+	margin-top: 30px;
+}
+.card{
+	margin-left: 120px;
+}
+.khungcmt{
+	margin-top: 50px;
+}
+.lhungcmt .card{
+	margin-right: 10px;
+}
